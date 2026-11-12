@@ -1,0 +1,136 @@
+nome_uf,uf,ano,populacao,regiao,taxa_geometrica_anual
+Acre,AC,1980,306893,Norte,
+Acre,AC,1991,417165,Norte,2.83
+Acre,AC,2000,557226,Norte,3.269
+Acre,AC,2010,733559,Norte,2.788
+Acre,AC,2022,830018,Norte,1.035
+Alagoas,AL,1980,2011875,Nordeste,
+Alagoas,AL,1991,2512991,Nordeste,2.042
+Alagoas,AL,2000,2819172,Nordeste,1.286
+Alagoas,AL,2010,3120494,Nordeste,1.021
+Alagoas,AL,2022,3127683,Nordeste,0.019
+Amazonas,AM,1980,1449135,Norte,
+Amazonas,AM,1991,2102901,Norte,3.443
+Amazonas,AM,2000,2813085,Norte,3.286
+Amazonas,AM,2010,3483985,Norte,2.162
+Amazonas,AM,2022,3941613,Norte,1.034
+Amapá,AP,1980,180078,Norte,
+Amapá,AP,1991,288690,Norte,4.384
+Amapá,AP,2000,475843,Norte,5.71
+Amapá,AP,2010,669526,Norte,3.474
+Amapá,AP,2022,733759,Norte,0.766
+Bahia,BA,1980,9597393,Nordeste,
+Bahia,BA,1991,11855157,Nordeste,1.939
+Bahia,BA,2000,13066910,Nordeste,1.087
+Bahia,BA,2010,14016906,Nordeste,0.704
+Bahia,BA,2022,14141626,Nordeste,0.074
+Ceará,CE,1980,5380432,Nordeste,
+Ceará,CE,1991,6362620,Nordeste,1.536
+Ceará,CE,2000,7418476,Nordeste,1.721
+Ceará,CE,2010,8452381,Nordeste,1.313
+Ceará,CE,2022,8794957,Nordeste,0.332
+Distrito Federal,DF,1980,1203333,Centro-Oeste,
+Distrito Federal,DF,1991,1598415,Centro-Oeste,2.615
+Distrito Federal,DF,2000,2043169,Centro-Oeste,2.765
+Distrito Federal,DF,2010,2570160,Centro-Oeste,2.321
+Distrito Federal,DF,2022,2817381,Centro-Oeste,0.768
+Espírito Santo,ES,1980,2063679,Sudeste,
+Espírito Santo,ES,1991,2598505,Sudeste,2.117
+Espírito Santo,ES,2000,3094390,Sudeste,1.96
+Espírito Santo,ES,2010,3514952,Sudeste,1.283
+Espírito Santo,ES,2022,3833712,Sudeste,0.726
+Goiás,GO,1980,3229219,Centro-Oeste,
+Goiás,GO,1991,4012562,Centro-Oeste,1.994
+Goiás,GO,2000,4996439,Centro-Oeste,2.467
+Goiás,GO,2010,6003788,Centro-Oeste,1.854
+Goiás,GO,2022,7056495,Centro-Oeste,1.355
+Maranhão,MA,1980,4097231,Nordeste,
+Maranhão,MA,1991,4929029,Nordeste,1.694
+Maranhão,MA,2000,5642960,Nordeste,1.514
+Maranhão,MA,2010,6574789,Nordeste,1.54
+Maranhão,MA,2022,6776699,Nordeste,0.252
+Minas Gerais,MG,1980,13651852,Sudeste,
+Minas Gerais,MG,1991,15731961,Sudeste,1.298
+Minas Gerais,MG,2000,17866402,Sudeste,1.424
+Minas Gerais,MG,2010,19597330,Sudeste,0.929
+Minas Gerais,MG,2022,20539989,Sudeste,0.392
+Mato Grosso do Sul,MS,1980,1401151,Centro-Oeste,
+Mato Grosso do Sul,MS,1991,1778741,Centro-Oeste,2.193
+Mato Grosso do Sul,MS,2000,2074877,Centro-Oeste,1.726
+Mato Grosso do Sul,MS,2010,2449024,Centro-Oeste,1.672
+Mato Grosso do Sul,MS,2022,2757013,Centro-Oeste,0.992
+Mato Grosso,MT,1980,1169812,Centro-Oeste,
+Mato Grosso,MT,1991,2022524,Centro-Oeste,5.103
+Mato Grosso,MT,2000,2502260,Centro-Oeste,2.393
+Mato Grosso,MT,2010,3035122,Centro-Oeste,1.949
+Mato Grosso,MT,2022,3658649,Centro-Oeste,1.569
+Pará,PA,1980,3507312,Norte,
+Pará,PA,1991,5181570,Norte,3.611
+Pará,PA,2000,6189550,Norte,1.995
+Pará,PA,2010,7581051,Norte,2.049
+Pará,PA,2022,8120131,Norte,0.574
+Paraíba,PB,1980,2810032,Nordeste,
+Paraíba,PB,1991,3200677,Nordeste,1.19
+Paraíba,PB,2000,3439344,Nordeste,0.802
+Paraíba,PB,2010,3766528,Nordeste,0.913
+Paraíba,PB,2022,3974687,Nordeste,0.449
+Pernambuco,PE,1980,6244275,Nordeste,
+Pernambuco,PE,1991,7122548,Nordeste,1.204
+Pernambuco,PE,2000,7911937,Nordeste,1.175
+Pernambuco,PE,2010,8796448,Nordeste,1.065
+Pernambuco,PE,2022,9058931,Nordeste,0.245
+Piauí,PI,1980,2188150,Nordeste,
+Piauí,PI,1991,2581215,Nordeste,1.513
+Piauí,PI,2000,2841202,Nordeste,1.072
+Piauí,PI,2010,3118360,Nordeste,0.935
+Piauí,PI,2022,3271199,Nordeste,0.4
+Paraná,PR,1980,7749752,Sul,
+Paraná,PR,1991,8443299,Sul,0.782
+Paraná,PR,2000,9558454,Sul,1.388
+Paraná,PR,2010,10444526,Sul,0.89
+Paraná,PR,2022,11444380,Sul,0.765
+Rio de Janeiro,RJ,1980,11489797,Sudeste,
+Rio de Janeiro,RJ,1991,12783761,Sudeste,0.975
+Rio de Janeiro,RJ,2000,14367083,Sudeste,1.306
+Rio de Janeiro,RJ,2010,15989929,Sudeste,1.076
+Rio de Janeiro,RJ,2022,16055174,Sudeste,0.034
+Rio Grande do Norte,RN,1980,1933126,Nordeste,
+Rio Grande do Norte,RN,1991,2414121,Nordeste,2.041
+Rio Grande do Norte,RN,2000,2771538,Nordeste,1.546
+Rio Grande do Norte,RN,2010,3168027,Nordeste,1.346
+Rio Grande do Norte,RN,2022,3302729,Nordeste,0.348
+Rondônia,RO,1980,503125,Norte,
+Rondônia,RO,1991,1130874,Norte,7.641
+Rondônia,RO,2000,1377792,Norte,2.219
+Rondônia,RO,2010,1562409,Norte,1.265
+Rondônia,RO,2022,1581196,Norte,0.1
+Roraima,RR,1980,82018,Norte,
+Roraima,RR,1991,215950,Norte,9.2
+Roraima,RR,2000,324152,Norte,4.616
+Roraima,RR,2010,450479,Norte,3.346
+Roraima,RR,2022,636707,Norte,2.925
+Rio Grande do Sul,RS,1980,7942722,Sul,
+Rio Grande do Sul,RS,1991,9135479,Sul,1.28
+Rio Grande do Sul,RS,2000,10181749,Sul,1.212
+Rio Grande do Sul,RS,2010,10693929,Sul,0.492
+Rio Grande do Sul,RS,2022,10882965,Sul,0.146
+Santa Catarina,SC,1980,3687652,Sul,
+Santa Catarina,SC,1991,4538248,Sul,1.905
+Santa Catarina,SC,2000,5349580,Sul,1.844
+Santa Catarina,SC,2010,6248436,Sul,1.565
+Santa Catarina,SC,2022,7610361,Sul,1.657
+Sergipe,SE,1980,1156642,Nordeste,
+Sergipe,SE,1991,1491867,Nordeste,2.341
+Sergipe,SE,2000,1781714,Nordeste,1.992
+Sergipe,SE,2010,2068017,Nordeste,1.501
+Sergipe,SE,2022,2210004,Nordeste,0.555
+São Paulo,SP,1980,25375199,Sudeste,
+São Paulo,SP,1991,31546473,Sudeste,1.999
+São Paulo,SP,2000,36969476,Sudeste,1.778
+São Paulo,SP,2010,41262199,Sudeste,1.105
+São Paulo,SP,2022,44411238,Sudeste,0.615
+Tocantins,TO,1980,738688,Norte,
+Tocantins,TO,1991,920116,Norte,2.017
+Tocantins,TO,2000,1155913,Norte,2.567
+Tocantins,TO,2010,1383445,Norte,1.813
+Tocantins,TO,2022,1511460,Norte,0.74

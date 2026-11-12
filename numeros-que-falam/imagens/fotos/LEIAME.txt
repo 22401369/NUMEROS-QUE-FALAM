@@ -1,0 +1,5 @@
+Coloque aqui 2 ou 3 fotos de expansão urbana das capitais (jpg ou png).
+O nome do arquivo vira a legenda no app. Exemplo:
+  Vista aérea de Florianópolis.jpg
+  Centro de Salvador.jpg
+Coloque a fonte da foto no nome, ex: "Vista aérea de Curitiba (Wikimedia Commons).jpg"
